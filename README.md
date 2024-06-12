@@ -6,11 +6,13 @@
 
 <img>![image-uploader](https://github.com/MelchizedekMunene/DRAG-AND-DROP-IMAGE-UPLOADER-USING-HTML-CSS-AND-JAVASCRIPT/assets/134499887/9bb0a78d-d155-4a05-a962-c9652889112e)<img>
 
-<h2>How to set it up</h2>
-<p></p>Download the sourcecode on your local disk.
-Ensure in the HTML document the CSS file and the javascript file are correclty linked.
-Click the HTML doc and open it with your favourite browser.
-Now you can drag and drop images on the webpage and they will be displayed.</p>
+<h3>How to Install the project</h3>
+<ol>
+  <li>Clone the repository on your machine using -- git clone https://github.com/MelchizedekMunene/DRAG-AND-DROP-IMAGE-UPLOADER-USING-HTML-CSS-AND-JAVASCRIPT</li>
+  <li>Unzip the folder and set up the link to the CSS file and JS script file.</li>
+  <li>Open the index htnl document with your favourite browser.</li>
+<ol>
+  <p>Now you can drag and drop images on the webpage and they will be displayed.</p>
 
 <h3>I will apprecioate any feedback on any issue in this simple webpage.Feel free to contribute to this public repo.</h3>
 
